@@ -1,0 +1,3 @@
+D:/STUDY/Algorithms/Prufer code/cmake-build-debug/CMakeFiles/Prufer_code.dir
+D:/STUDY/Algorithms/Prufer code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STUDY/Algorithms/Prufer code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+# ninja log v5
+7	731	6908322390371548	CMakeFiles/Prufer_code.dir/asd.cpp.obj	a524849f14362a09
+3	875	6908309148859765	CMakeFiles/Prufer_code.dir/main.cpp.obj	cf485fabcb03322
+875	977	6908309149847126	Prufer_code.exe	c768bf0f0a3738e1
+0	139	6908328037898988	build.ninja	9d1df9b9ee2ed31a
+2	873	6908328047308705	CMakeFiles/Prufer_code.dir/main.cpp.obj	cf485fabcb03322
+874	998	6908328048537612	Prufer_code.exe	c768bf0f0a3738e1
+2	859	6908329352515489	CMakeFiles/Prufer_code.dir/main.cpp.obj	cf485fabcb03322
+860	976	6908329353674391	Prufer_code.exe	c768bf0f0a3738e1
+2	852	6908331503639634	CMakeFiles/Prufer_code.dir/main.cpp.obj	cf485fabcb03322
+853	1494	6908331509998085	Prufer_code.exe	c768bf0f0a3738e1
+2	847	6908331819932053	CMakeFiles/Prufer_code.dir/main.cpp.obj	cf485fabcb03322
+847	964	6908331821088959	Prufer_code.exe	c768bf0f0a3738e1
+2	849	6908332131502977	CMakeFiles/Prufer_code.dir/main.cpp.obj	cf485fabcb03322
+850	964	6908332132633050	Prufer_code.exe	c768bf0f0a3738e1
+2	1027	6908339021938387	CMakeFiles/Prufer_code.dir/main.cpp.obj	cf485fabcb03322
+1028	1158	6908339023224945	Prufer_code.exe	c768bf0f0a3738e1
+3	918	6908339260383059	CMakeFiles/Prufer_code.dir/main.cpp.obj	cf485fabcb03322
+918	1045	6908339261639702	Prufer_code.exe	c768bf0f0a3738e1
